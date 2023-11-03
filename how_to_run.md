@@ -14,7 +14,7 @@
     ```
 4. Run container
     ```bash
-    docker run --name micron --network=host --privileged -it --device=/dev/fw1 micron:latest --rm
+    docker run --rm --name micron --network=host --privileged -it --device=/dev/fw1 micron:latest
     ```
 
     You should see output like 
