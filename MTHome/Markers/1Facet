@@ -14,11 +14,11 @@ EndPos(1,1)=6.07768622
 EndPos(1,2)=0
 
 [Facet1V2]
-EndPos(0,0)=6.07768622
-EndPos(0,1)=-34.46827136
+EndPos(0,0)=4.76572408
+EndPos(0,1)=-27.02776432
 EndPos(0,2)=0
-EndPos(1,0)=-6.07768622
-EndPos(1,1)=34.46827136
+EndPos(1,0)=-4.90546962
+EndPos(1,1)=27.82030067
 EndPos(1,2)=0
 
 [Tooltip2MarkerXf]
