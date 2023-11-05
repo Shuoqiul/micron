@@ -6,38 +6,38 @@ Name=Totest
 VectorsCount=2
 
 [Facet1V1]
-EndPos(0,0)=34.46827136
-EndPos(0,1)=6.07768622
+EndPos(0,0)=7.8732869
+EndPos(0,1)=-34.10295227
 EndPos(0,2)=0
-EndPos(1,0)=-34.46827136
-EndPos(1,1)=-6.07768622
+EndPos(1,0)=7.8732869
+EndPos(1,1)=34.10295227
 EndPos(1,2)=0
 
 [Facet1V2]
-EndPos(0,0)=34.46827136
-EndPos(0,1)=-6.07768622
+EndPos(0,0)=-7.8732869
+EndPos(0,1)=34.10295227
 EndPos(0,2)=0
-EndPos(1,0)=-34.46827136
-EndPos(1,1)=6.07768622
+EndPos(1,0)=-7.8732869
+EndPos(1,1)=-34.10295227
 EndPos(1,2)=0
 
 [Facet2]
 VectorsCount=2
 
 [Facet2V1]
-EndPos(0,0)=-6.07768622
-EndPos(0,1)=34.46827136
+EndPos(0,0)=-34.10295227
+EndPos(0,1)=-7.8732869
 EndPos(0,2)=0
-EndPos(1,0)=6.07768622
-EndPos(1,1)=-34.46827136
+EndPos(1,0)=34.10295227
+EndPos(1,1)=-7.8732869
 EndPos(1,2)=0
 
 [Facet2V2]
-EndPos(0,0)=6.07768622
-EndPos(0,1)=34.46827136
+EndPos(0,0)=34.10295227
+EndPos(0,1)=7.8732869
 EndPos(0,2)=0
-EndPos(1,0)=-6.07768622
-EndPos(1,1)=-34.46827136
+EndPos(1,0)=-34.10295227
+EndPos(1,1)=7.8732869
 EndPos(1,2)=0
 
 [Tooltip2MarkerXf]
